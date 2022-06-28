@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '35475'
     url: http://www.gutenberg.org/2009/agents/35475
     wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Hell%C3%A9
+covers:
+- cover_type: archival
+  image_path: 68327-h/images/cover.jpg
 creator:
   author:
     agent_name: Desbordes-Valmore, Marceline
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marceline_Desbordes-Valmore
     - https://fr.wikipedia.org/wiki/Marceline_Desbordes-Valmore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68327#Le-livre-des-enfants
 gutenberg_issued: '2022-06-16'
 identifiers:
   gutenberg: '68327'
